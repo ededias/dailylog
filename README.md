@@ -1,6 +1,13 @@
 # dailylog
 It's my dailylog repositorie about my studies and persons projects 
 
+
+### June
+  03/06  
+  I created a crud for visitants on my work  
+  04/06  
+  Today I pupulate a database and make a selection of a products to frot-end a website
+
 ### Another projects dev after this created
 
 [Twitter_clone](https://github.com/ededias/twitter_clone)  
