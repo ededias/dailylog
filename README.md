@@ -8,7 +8,7 @@ It's my dailylog repositorie about my studies and persons projects
   04/06  
   Today I pupulate a database and make a selection of a products to frot-end with ajax a website
   04/06  
-  Today I create a crud for my person blog, I need fish him a [Clique aqui](https:://edenilsondias.com)  
+  Today I create a crud for my person blog, I need fish him a [Click here](https:://edenilsondias.com)  
   now have only index page
 
 ### Another projects dev after this created
