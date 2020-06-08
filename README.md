@@ -3,12 +3,17 @@ It's my dailylog repositorie about my studies and persons projects
 
 
 ### June
+
+
   03/06  
   - I created a crud for visitants on my work  
+  
   04/06  
   - Today I pupulate a database and make a selection of a products to frot-end with ajax a website
+  
   04/06  
   - Today I create a crud for my person blog, I need fish him a [Click here](https:://edenilsondias.com) now have only index page  
+  
   07/06  
   - Today I create a friendly url with javascript for my blog and refresh page without loss ajax request content
 
