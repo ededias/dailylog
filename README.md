@@ -15,7 +15,13 @@ It's my dailylog repositorie about my studies and persons projects
   - Today I create a crud for my person blog, I need fish him a [Click here](https:://edenilsondias.com) now have only index page  
   
   07/06  
-  - Today I create a friendly url with javascript for my blog and refresh page without loss ajax request content
+  - Today I create a friendly url with javascript for my blog and refresh page without loss ajax request content  
+  
+  08/06  - 10/06
+  - Today I refatoring a landing page on my work where  
+  
+  11/06  
+  - Today I continues dev my person blog using ajax for all requests to back-end
 
 ### Another projects dev after this created
 
