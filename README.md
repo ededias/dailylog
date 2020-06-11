@@ -18,7 +18,7 @@ It's my dailylog repositorie about my studies and persons projects
   - Today I create a friendly url with javascript for my blog and refresh page without loss ajax request content  
   
   08/06  - 10/06
-  - Today I refatoring a landing page on my work where  
+  - In these days, I refatoring a landing page on my work  
   
   11/06  
   - Today I continues dev my person blog using ajax for all requests to back-end
