@@ -22,6 +22,12 @@ It's my dailylog repositorie about my studies and persons projects
   
   11/06  
   - Today I continues dev my person blog using ajax for all requests to back-end
+  
+  15/06  
+  - Today I learned validate form with laravel framework
+  
+  16/06  
+  - I make a API with laravel and access they with jQuery
 
 ### Another projects dev after this created
 
